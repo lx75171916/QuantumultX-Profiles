@@ -4,7 +4,6 @@
 
 <img src="https://img.shields.io/github/stars/alpha87/QuantumultX-Profiles?label=Stars&style=flat-square">    <img src="https://img.shields.io/github/forks/alpha87/QuantumultX-Profiles?label=Fork&style=flat-square">   <img src="https://img.shields.io/github/watchers/alpha87/QuantumultX-Profiles?label=Watchers&style=flat-square">
 
-**🍒 下载「彩云天气」APP，输入我的邀请码：24066808，白嫖一年 SVIP。**
 
 一份你值得拥有的 QuantumultX **真·小白配置**。
 
@@ -48,8 +47,5 @@ https://raw.githubusercontent.com/alpha87/QuantumultX-Profiles/master/quantumult
 
 https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
 
-# 开发不易，感谢支持！
-
-<div align=center><img width="260" height="260" src="https://i.loli.net/2020/04/11/8SbdAIZ6CYlBqey.jpg"></div>
 
 ![](https://i.loli.net/2020/06/17/ZpwDfJmCGEoKqnb.png)
